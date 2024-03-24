@@ -5,7 +5,7 @@
 // async function bootstrap() {
 //   const app = await NestFactory.create(AppModule);
 //   app.enableCors({
-//     origin: 'https://65fb0034291f01008418cf5b--forsa-e-commerce.netlify.app',
+//     origin: 'http://localhost:3000',
 //     methods: 'GET,HEAD,PUT,PATCH,POST,DELETE',
 //     credentials: true,
 //   });
